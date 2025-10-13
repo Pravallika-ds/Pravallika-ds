@@ -56,8 +56,8 @@ My four-year Bachelor of Technology degree provides a strong theoretical and pra
 
 I'm always open to discussing data-driven projects, exploring new opportunities, or connecting with fellow data professionals!
 
-* **LinkedIn:** [Your LinkedIn Profile URL: addagalla-pravallika]
-* **GitHub:** [Your GitHub URL: Pravallika-02-datascience]
+* **LinkedIn:**  addagalla-pravallika
+* **GitHub:**  Pravallika-ds
 * **Email:** a.pravallika86@gmail.com
 
 
